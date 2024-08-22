@@ -64,6 +64,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Author
-- Website - [Edward Pau](https://www.your-site.com)
+- Website - [Edward Pau](https://www.edpau.me)
 - Frontend Mentor - [@edpau](https://www.frontendmentor.io/profile/edpau)
 
